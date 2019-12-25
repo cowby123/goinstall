@@ -9,4 +9,4 @@ mkdir src bin pkg
 cd ~
 echo "export GOPATH=$HOME/gopath" >> .bashrc
 echo "export PATH=$PATH:$HOME/go/bin" >> .bashrc
-sudo source ~/.bashrc
+source ~/.bashrc
