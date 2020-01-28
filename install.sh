@@ -1,8 +1,8 @@
 sudo apt-get update
 cd ~
-wget https://dl.google.com/go/go1.13.6.linux-amd64.tar.gz
-tar -zxvf go1.13.6.linux-amd64.tar.gz
-rm -rf go1.13.6.linux-amd64.tar.gz
+wget https://dl.google.com/go/go1.13.7.linux-amd64.tar.gz
+tar -zxvf go1.13.7.linux-amd64.tar.gz
+rm -rf go1.13.7.linux-amd64.tar.gz
 mkdir gopath
 cd gopath
 mkdir src bin pkg
