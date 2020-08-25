@@ -1,6 +1,6 @@
 sudo apt-get update
 cd ~
-wget https://golang.org/dl/go1.14.4.linux-amd64.tar.gz
+wget https://golang.org/dl/go1.15.linux-amd64.tar.gz
 tar -zxvf go1.14.4.linux-amd64.tar.gz
 rm -rf go1.14.4.linux-amd64.tar.gz
 mkdir gopath
